@@ -6,7 +6,6 @@ import frc.robot.Lab.Lab;
 
 public class SetUpLab {
     public static void initialize() {
-        Lab.runLab();
         runScratchbotCommands();
     }
     public static void runScratchbotCommands(){
