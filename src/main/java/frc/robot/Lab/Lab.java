@@ -6,10 +6,23 @@ import frc.robot.Scratchbot.Scratchbot;
 
 public class Lab 
 {
+    public static void randbot()
+    {
+        int x = (int)(Math.random() * 3);
+        System.out.println(x);
+    }
+
+
+
+
 
     public static void runLab() 
     {
-        //put code here and DONT USE THIS FOR EXERCISES!!
+        Lab derive = new Lab();
+
+        Lab.randbot();
+
+
     }
 
 }
