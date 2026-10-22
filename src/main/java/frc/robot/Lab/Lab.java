@@ -6,16 +6,10 @@ import frc.robot.Scratchbot.Scratchbot;
 
 public class Lab 
 {
-    public static void randRobot()
-    {   
-        
-    }
-
 
     public static void runLab() 
     {
-        Boolean TurnClockwise = true;
-
-
+        //put code here and DONT USE THIS FOR EXERCISES!!
     }
+
 }
